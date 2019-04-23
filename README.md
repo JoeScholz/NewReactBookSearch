@@ -1,4 +1,6 @@
-#ReactBookSearch
+# ReactBookSearch
+This app allows users to search the Google Books library. 
+They can then save the info for the book or view the link.
 
 ## Create React Express App
 
